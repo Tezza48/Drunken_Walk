@@ -10,21 +10,18 @@ namespace DrunkenWalk
     {
         public static Dungeon dungeon = new Dungeon(WIDTH, HEIGHT);
 
-        public const int WIDTH = 30;
-        public const int HEIGHT = 20;
-        public const int WALK_DISTANCE = 2000;
+        public const int WIDTH = 50;
+        public const int HEIGHT = 30;
+        public const int WALK_DISTANCE = 3000;
 
         static void Main(string[] args)
         {
             Console.SetWindowSize(WIDTH, HEIGHT);
 
             dungeon.DrunkenWalk(WALK_DISTANCE, WIDTH, HEIGHT);
-            // pick a random point of a filled grid
-            // mark that point empty
-            // choose a random cardinal
-            // move to that point and mark it empty
-            // repeat 2-3 until you have emptied as much as you want
+
             Update();
+
             Console.ReadKey();
         }
 

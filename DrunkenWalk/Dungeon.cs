@@ -38,11 +38,11 @@ namespace DrunkenWalk
         public void DrunkenWalk (int distance, int width, int height)
         {
             Random rand = new Random();
-            int[] point = { rand.Next(0, width - 1), rand.Next(0, height - 1) };
+            int[] point = { rand.Next(0, width), rand.Next(0, height) };
             for (int i = 0; i < distance; i++)
             {
                 grid[point[0], point[1]].IsEmpty = true;
-                int direction = rand.Next(0, 3);
+                int direction = rand.Next(0, 4);
                 switch (direction)
                 {
                     case 0:
