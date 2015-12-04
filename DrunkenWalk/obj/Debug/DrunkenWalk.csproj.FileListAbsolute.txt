@@ -4,3 +4,9 @@ D:\Users\Student\Documents\University\Year 2\Programming\DrunkenWalk\DrunkenWalk
 D:\Users\Student\Documents\University\Year 2\Programming\DrunkenWalk\DrunkenWalk\obj\Debug\DrunkenWalk.csprojResolveAssemblyReference.cache
 D:\Users\Student\Documents\University\Year 2\Programming\DrunkenWalk\DrunkenWalk\obj\Debug\DrunkenWalk.exe
 D:\Users\Student\Documents\University\Year 2\Programming\DrunkenWalk\DrunkenWalk\obj\Debug\DrunkenWalk.pdb
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.exe.config
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.exe
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.pdb
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.exe
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.pdb
+D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.csprojResolveAssemblyReference.cache

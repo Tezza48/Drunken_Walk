@@ -9,18 +9,9 @@ namespace DrunkenWalk
     class Dungeon
     {
         private Cell[,] grid;
-
-        public Dungeon(int width, int height)
-        {
-            grid = new Cell[width, height];
-            for (int x = 0; x < width; x++)
-            {
-                for (int y = 0; y < height; y++)
-                {
-                    grid[x, y] = new Cell();
-                }
-            }
-        }
+        private int width;
+        private int height;
+        private int distance;
 
         internal Cell[,] Grid
         {
@@ -35,13 +26,32 @@ namespace DrunkenWalk
             }
         }
 
-        public void DrunkenWalk (int distance, int width, int height)
+        public Dungeon(int width, int height, int distance)
+        {
+            this.width = width;
+            this.height = height;
+            this.distance = distance;
+
+            Grid = new Cell[width, height];
+
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    Grid[x, y] = new Cell();
+                }
+            }
+
+            DrunkenWalk();
+        }
+
+        public void DrunkenWalk ()
         {
             Random rand = new Random();
             int[] point = { rand.Next(0, width), rand.Next(0, height) };
             for (int i = 0; i < distance; i++)
             {
-                grid[point[0], point[1]].IsEmpty = true;
+                Grid[point[0], point[1]].IsEmpty = true;
                 int direction = rand.Next(0, 4);
                 switch (direction)
                 {
