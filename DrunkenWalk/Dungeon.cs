@@ -46,7 +46,7 @@ namespace DrunkenWalk
                 switch (direction)
                 {
                     case 0:
-                        if (point[1] > 1) point[1]--;
+                        if (point[1] > 0) point[1]--;
                         else point[1]++;
                         break;
                     case 1:
@@ -58,7 +58,7 @@ namespace DrunkenWalk
                         else point[1]--;
                         break;
                     case 3:
-                        if (point[0] > 1) point[0]--;
+                        if (point[0] > 0) point[0]--;
                         else point[0]++;
                         break;
                 }
