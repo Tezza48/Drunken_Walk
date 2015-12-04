@@ -10,3 +10,9 @@ D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\
 D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.exe
 D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.pdb
 D:\tezza\Documents\University\Uni Year Two\Programming\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.csprojResolveAssemblyReference.cache
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.exe.config
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.exe
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.pdb
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.exe
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\bin\Debug\DrunkenWalk.pdb
+C:\Users\Games\Documents\GitHub\Drunken_Walk\DrunkenWalk\obj\Debug\DrunkenWalk.csprojResolveAssemblyReference.cache

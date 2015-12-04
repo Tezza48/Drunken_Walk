@@ -11,7 +11,7 @@ namespace DrunkenWalk
 
         public bool isRunning = false;
 
-        private const int WALK_DISTANCE = 3000;
+        private const int WALK_DISTANCE = 500;
         
         private int width;
         private int height;
